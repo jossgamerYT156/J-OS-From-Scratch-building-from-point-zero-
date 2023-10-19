@@ -3,7 +3,7 @@ V0.0.012
 -
 added boot
 -
-added bootmessage
+added bootmessage (NOT FINAL)
 support for 16-bit systems
 -
 Overview of BootMessage: ![image](https://github.com/jossgamerYT156/J-OS-From-Scratch-building-from-point-zero-/assets/83188516/1295ebdf-c62b-42d4-8779-8c717cdd4963)
