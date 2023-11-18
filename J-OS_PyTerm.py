@@ -189,3 +189,4 @@ while True:
     if user_input.lower() == 'exit':
         break
     shell.run_command(user_input)
+#this is for demostrational purposes only, not to take as an actual release of J-OS, this is just to explain the basics and the concept of J-OS on a more practical way.
